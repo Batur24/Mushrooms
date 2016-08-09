@@ -1,1 +1,7 @@
-h1 {color:purple}
+body {
+	background: #f0efe7;
+}
+h1 {
+	color:purple;
+	text-align: center;
+}
