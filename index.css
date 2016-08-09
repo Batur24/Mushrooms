@@ -5,3 +5,9 @@ h1 {
 	color:purple;
 	text-align: center;
 }
+#foto-img {
+	text-align: center;
+}
+img {
+    height: 400px;
+}
